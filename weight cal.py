@@ -1,6 +1,5 @@
 from tkinter import *
 
-# Creating a GUI Window
 window = Tk()
 
 
